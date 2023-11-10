@@ -6,7 +6,11 @@
           <img src="" alt="">
         </a>
       </div>
-      <div class="header-right"></div>
+      <div class="header-right">
+        <div>
+          
+        </div>
+      </div>
     </div>
   </header>
 </template>
