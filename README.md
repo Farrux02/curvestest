@@ -1,5 +1,9 @@
 # curves
 
+## Project link
+
+(Link)[https://654f964d6f8699444e57cc2a--creative-peony-d59f42.netlify.app/]
+
 ## Project setup
 ```
 npm install
@@ -19,6 +23,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
