@@ -1,1 +1,61 @@
-/*# sourceMappingURL=header.css.map */
+.header {
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid var(--main-gray);
+}
+.header-left img {
+  width: 75px;
+  height: 21px;
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+.header-right {
+  display: flex;
+  -moz-column-gap: 10px;
+       column-gap: 10px;
+  align-items: center;
+}
+.header-right__short-info {
+  height: 39px;
+  padding: 8px 24px;
+  border-radius: 72px;
+  border: 1px solid var(--black-color);
+  background-color: var(--black-color);
+  display: flex;
+  -moz-column-gap: 16px;
+       column-gap: 16px;
+  align-items: center;
+}
+.header-right__short-info__title {
+  color: #d9d9d9;
+  text-align: left;
+  font-size: 8px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 120%;
+}
+.header-right__short-info__text {
+  padding-top: 2px;
+  color: #e1fe03;
+  text-align: left;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 120%; /* 14.4px */
+}
+.header-right__profile {
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 100%;
+  border: 1px solid var(--main-gray);
+  width: 39px;
+  height: 39px;
+}
+.header-right__profile img {
+  width: 16px;
+  height: 16px;
+  -o-object-fit: contain;
+     object-fit: contain;
+}/*# sourceMappingURL=header.css.map */
