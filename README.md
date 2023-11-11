@@ -2,7 +2,7 @@
 
 ## Project link
 
-(Link)[https://654f964d6f8699444e57cc2a--creative-peony-d59f42.netlify.app/]
+[Link](https://654f964d6f8699444e57cc2a--creative-peony-d59f42.netlify.app/)
 
 ## Project setup
 ```
